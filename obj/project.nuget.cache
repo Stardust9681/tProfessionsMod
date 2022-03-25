@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NpieB4NkzpAvGcdGqM7Hnnv6mTqZ6pWYb6lgUf647WLCUEZxrsAywambTN4iEMsxaZ42tC2hcMlMduH9iWIczw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nathan\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ProfessionsMod\\ProfessionsMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathan\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

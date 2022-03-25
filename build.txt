@@ -1,0 +1,3 @@
+displayName = Terraria Professions
+author = Stardust9681
+version = 0.1

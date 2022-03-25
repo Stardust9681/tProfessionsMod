@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nathan\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ProfessionsMod\\ProfessionsMod.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nathan\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ProfessionsMod\\ProfessionsMod.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nathan\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ProfessionsMod\\ProfessionsMod.csproj",
+        "projectName": "ProfessionsMod",
+        "projectPath": "C:\\Users\\Nathan\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ProfessionsMod\\ProfessionsMod.csproj",
+        "packagesPath": "C:\\Users\\Nathan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nathan\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ProfessionsMod\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Nathan\\Documents\\New folder\\VS Dev": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
