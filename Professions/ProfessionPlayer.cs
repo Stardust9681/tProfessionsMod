@@ -12,7 +12,7 @@ namespace ProfessionsMod.Professions
     public abstract class ProfessionPlayer : ModPlayer
     {
 
-        internal List<int> unknownRecipes;// = new List<Recipe>();
+        internal List<int> unknownRecipes;
 
         public override void Initialize()
         {
